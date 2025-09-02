@@ -1,0 +1,53 @@
+[
+    {
+        "cloth_root" : "./data/Cloth-Simulation/Assets/cloth3d_eval"
+    },
+    {
+        "cloth_type" : "No-sleeve",
+        "cloth_name" : "0000"
+    },
+    {
+        "cloth_type" : "No-sleeve",
+        "cloth_name" : "0001"
+    },
+    {
+        "cloth_type" : "No-sleeve",
+        "cloth_name" : "0002"
+    },
+    {
+        "cloth_type" : "Pants",
+        "cloth_name" : "0003"
+    },
+    {
+        "cloth_type" : "Pants",
+        "cloth_name" : "0004"
+    },
+    {
+        "cloth_type" : "Pants",
+        "cloth_name" : "0005"
+    },
+    {
+        "cloth_type" : "Long-sleeve",
+        "cloth_name" : "0006"
+    },
+    {
+        "cloth_type" : "Long-sleeve",
+        "cloth_name" : "0007"
+    },
+    {
+        "cloth_type" : "Long-sleeve",
+        "cloth_name" : "0008"
+    },
+    {
+        "cloth_type" : "Short-sleeve",
+        "cloth_name" : "0009"
+    },
+    {
+        "cloth_type" : "Short-sleeve",
+        "cloth_name" : "0010"
+    },
+    {
+        "cloth_type" : "Short-sleeve",
+        "cloth_name" : "0011"
+    }
+]

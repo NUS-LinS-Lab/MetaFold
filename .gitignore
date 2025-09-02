@@ -1,0 +1,4 @@
+3rdparty/*
+isaac_sim/output/*
+
+__pycache__

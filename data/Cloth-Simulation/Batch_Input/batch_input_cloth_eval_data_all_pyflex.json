@@ -1,0 +1,580 @@
+[
+    {
+        "cloth_root": "/home/transfer/chenhn_data/cloth_eval_all/cloth_eval_data_all_uniG"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top410_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_075_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_top115_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top095_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_model2_080_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top585_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top034_0_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_model2_045_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top610_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TCSC/TCSC_Top010_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Normal_Model_025_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top006_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top265_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top300_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_model2_010_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top510_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_model2_005_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Normal_Model_050_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_045_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Normal_Model_010_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top505_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top075_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top285_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_model2_040_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top150_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top270_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top050_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Normal_Model_015_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Normal_Model_005_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_Top595_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_090_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_top190_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "TNNC/TNNC_model2_050_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress036_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress006_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress070_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLG_Dress032_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress390_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress310_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLT/DLT_Dress140_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLC/TCLC_Jacket135_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLC/TCLC_Top012_0_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLC/TCLC_Jacket060_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLC/TCLC_Jacket150_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLC/TCLC_Jacket165_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DLSS/DLSS_Dress037_0_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DLSS/DLSS_Dress420_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DLSS/DLSS_Dress110_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress051_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress150_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress170_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress130_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress285_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress180_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_dress145_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress029_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress115_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress200_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress120_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress215_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DSNS/DSNS_Dress255_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DSSS/DSSS_Dress385_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DSSS/DSSS_dress10_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M1_100_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_030_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_060_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_longpants005_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M2_015_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_LongPants025_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_075_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_short010_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M1_065_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_070_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_095_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M1_080_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M1_075_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M2_010_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_M1_045_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_085_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_pants030_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_pants5_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_080_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_LongPants015_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_090_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_longpants020_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PL/PL_020_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLO/TCLO_model2_035_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TCLO/TCLO_025_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Jacket001_0_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Dress425_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top550_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Jacket075_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top220_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top470_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_model2_065_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top400_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top315_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_010_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_Top200_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top195_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Polo010_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top280_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top135_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top560_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_top515_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Normal_Model_020_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top340_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_model2_085_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_top065_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_top175_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top495_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Normal_Model_040_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "TNSC/TNSC_Top535_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DLLS/DLLS_Dress355_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DLLS/DLLS_Dress008_0_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DSLS/DSLS_Dress405_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DSLS/DSLS_Dress360_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DSLS/DSLS_Dress370_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DSLS/DSLS_Dress415_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "DSLS/DSLS_Dress280_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_015_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_010_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_070_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_015_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_025_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_055_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_045_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_050_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_060_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_005_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_095_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_040_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress055_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress400_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress100_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress054_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress035_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress165_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLO/TNLO_070_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLO/TNLO_035_action0"
+    },
+    
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "THLO/THLO_Jacket015_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "THLC/THLC_Jacket110_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "THLC/THLC_Normal_Model_045_action0"
+    }
+   
+    
+]

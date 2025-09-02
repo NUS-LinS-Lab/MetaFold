@@ -1,0 +1,31 @@
+{
+    "No-sleeve": {
+                    "cloth_config_path" : "./data/Cloth-Simulation/Configs/No-sleeve.json",
+                    "descriptions" : [
+                        "fold the no-sleeve bottom-up"
+                    ]
+    },
+    "Long-sleeve": {
+                    "cloth_config_path" : "./data/Cloth-Simulation/Configs/Long-sleeve.json",
+                    "descriptions" : [
+                        "Please fold Long-Sleeve top from the left sleeve",
+                        "Please fold Long-Sleeve top from the right sleeve",
+                        "Please fold Long-Sleeve top from the bottom-up"
+                    ]
+    },
+    "Short-sleeve": {
+                    "cloth_config_path" : "./data/Cloth-Simulation/Configs/Short-sleeve.json",
+                    "descriptions" : [
+                        "Please fold Short-Sleeve top from the left sleeve",
+                        "Please fold Short-Sleeve top from the right sleeve",
+                        "Please fold Short-Sleeve top from the bottom-up"
+                    ]
+    },
+    "Pants": {
+                    "cloth_config_path" : "./data/Cloth-Simulation/Configs/Pants.json",
+                    "descriptions" : [
+                        "fold the short pants from the left",
+                        "fold the short pants bottom-up"
+                    ]
+    }
+}

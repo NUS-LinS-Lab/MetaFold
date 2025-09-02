@@ -1,0 +1,873 @@
+[
+    {
+        "cloth_root" : "/home/transfer/chenhn_data/cloth3d_eval/uniG/eval"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0000"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0001"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0002"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0003"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0004"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0005"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0006"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0007"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0008"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0009"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0010"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0011"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0012"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0013"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0014"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0015"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0016"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0017"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0018"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0019"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0020"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0021"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0022"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0023"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0024"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0025"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0026"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0027"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0028"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0029"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0030"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0031"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0032"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0033"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0034"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0035"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0036"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0037"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0038"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0039"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0040"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0041"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0042"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0043"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0044"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0045"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0046"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0047"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0048"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0049"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0050"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "No-sleeve/0051"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0000"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0001"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0002"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0003"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0004"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0005"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0006"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0007"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0008"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0009"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0010"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0011"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0012"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0013"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0014"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0015"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0016"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0017"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0018"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0019"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0020"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0021"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0022"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0023"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0024"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0025"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0026"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0027"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0028"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0029"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0030"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0031"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0032"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0033"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0034"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0035"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0036"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0037"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0038"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0039"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0040"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0041"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0042"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0043"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "Long-sleeve/0044"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0000"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0001"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0002"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0003"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0004"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0005"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0006"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0007"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0008"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0009"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0010"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0011"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0012"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0013"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0014"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0015"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0016"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0017"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0018"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0019"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0020"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0021"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0022"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0023"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0024"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0025"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0026"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0027"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0028"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0029"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0030"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0031"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0032"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0033"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0034"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0035"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0036"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0037"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0038"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0039"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0040"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0041"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0042"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0043"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0044"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0045"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0046"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0047"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0048"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0049"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0050"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0051"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "Short-sleeve/0052"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0000"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0001"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0002"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0003"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0004"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0005"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0006"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0007"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0008"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0009"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0010"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0011"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0012"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0013"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0014"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0015"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0016"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0017"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0018"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0019"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0020"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0021"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0022"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0023"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0024"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0025"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0026"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0027"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0028"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0029"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0030"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0031"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0032"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0033"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0034"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0035"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0036"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0037"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0038"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0039"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0040"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0041"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0042"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0043"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0044"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0045"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0046"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0047"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0048"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0049"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0050"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0051"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0052"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0053"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0054"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0055"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0056"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0057"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0058"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0059"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0060"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0061"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0062"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0063"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0064"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0065"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "Pants/0066"
+    }
+]

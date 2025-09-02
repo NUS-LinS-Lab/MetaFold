@@ -1,0 +1,20 @@
+
+# in all folders
+__pycache__/
+
+# ignore picture and video
+*.png
+*.mp4
+
+/data/*
+*.log
+# ignore folders
+/logs
+/wandb
+/models
+/datasets
+
+
+# ignore files
+*.txt
+read_clothes.py

@@ -1,0 +1,10 @@
+{
+    "type": "No-sleeve",
+    "scale": [0.7,0.7,0.7],
+    "stage_num": 1,
+    "frame_per_stage": [30],    
+    "force_per_stage": [2],        
+    "step_turn": [1],             
+    "frames_per_step": 10,              
+    "threshold": 0.05
+}

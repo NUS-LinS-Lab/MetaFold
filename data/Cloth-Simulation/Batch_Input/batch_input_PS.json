@@ -1,0 +1,49 @@
+[
+    {
+        "cloth_root" : "/home/transfer/chenhn_data/cloth_eval_all/cloth_eval_data_all_uniG"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DSSS/DSSS_Dress385_action0"
+    },
+    {
+        "cloth_type": "Short-sleeve",
+        "cloth_name": "DSSS/DSSS_Dress385_action0"
+    },
+    
+
+    
+    
+    
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_model2_065_action0"
+    },
+    {
+        "cloth_type": "Long-sleeve",
+        "cloth_name": "TNLC/TNLC_model2_065_action0"
+    },
+    
+    
+    
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress055_0_action0"
+    },
+    {
+        "cloth_type": "No-sleeve",
+        "cloth_name": "DLG/DLG_Dress055_0_action0"
+    },
+    
+    
+    
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_095_action0"
+    },
+    {
+        "cloth_type": "Pants",
+        "cloth_name": "PS/PS_M1_095_action0"
+    }
+    
+]

@@ -1,0 +1,10 @@
+{
+    "type": "Long-sleeve",
+    "scale": [0.8,0.8,0.8],
+    "stage_num": 3,
+    "frame_per_stage": [60, 60,40],    
+    "force_per_stage": [1, 1, 2],        
+    "step_turn": [1, 1, 1],             
+    "frames_per_step": 10,              
+    "threshold": 0.05
+}

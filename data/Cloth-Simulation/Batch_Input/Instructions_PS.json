@@ -1,0 +1,11 @@
+{
+    
+    "Short-sleeve": {
+        "cloth_config_path" : "./data/Cloth-Simulation/Configs/Short-sleeve.json",
+        "descriptions" : [
+            "Please fold Short-Sleeve top from the left sleeve",
+            "Please fold Short-Sleeve top from the right sleeve",
+            "Please fold Short-Sleeve top from the bottom-up"
+        ]
+    }
+}
